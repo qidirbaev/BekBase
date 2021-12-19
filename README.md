@@ -1,6 +1,9 @@
 # USHBU KLIENT DASTUR WEB DASTURLASH FANI UCHUN DEMO SHAKLIDA OLINDI
 # This client side application permissioned from the author
 
+# Live:
+	https://web-programming-demo.netlify.app
+
 ***AUTHOR***
     __Begzat Kidirbaev__
 
