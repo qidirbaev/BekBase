@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/6a3d017a-78d4-4dbb-a949-698846f5a235/resourceGroups/Kidirbaev/providers/Microsoft.Web/sites/tracog",
+    "appService.deploySubpath": "."
+}
